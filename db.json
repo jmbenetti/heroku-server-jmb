@@ -1,7 +1,7 @@
 {
 "productos": [
     {
-      "nombre": "Taza stormtrooper.",
+      "nombre": "Taza stormtrooper",
       "precio": "60.00",
       "categoria": "Star Wars",
       "imagen": "", 
